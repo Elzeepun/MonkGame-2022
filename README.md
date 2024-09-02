@@ -1,2 +1,2 @@
-This is a low cost dungeon crawler game prototype.
+This is a low cost ASCII dungeon crawler game prototype.
 I made this using C++ in Visual Studio.
